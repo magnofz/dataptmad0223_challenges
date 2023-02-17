@@ -1,2 +1,2 @@
 # Challenges
-Challengies repositories
+Challenges repositories
